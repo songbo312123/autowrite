@@ -1,0 +1,122 @@
+{
+  "career-01": {
+    "score": 30,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "可发，还可继续增强传播点"
+  },
+  "creator-01": {
+    "score": 30,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "可发，还可继续增强传播点"
+  },
+  "emotion-01": {
+    "score": 30,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "可发，还可继续增强传播点"
+  },
+  "hot-01": {
+    "score": 20,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": false,
+      "body": false,
+      "viral_analysis": false,
+      "structure_hint": true,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "结构基本完整，但传播力不足"
+  },
+  "knowledge-01": {
+    "score": 35,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": true,
+      "mobile_readable": true
+    },
+    "summary": "强稿，可直接作为高质量样稿"
+  },
+  "money-01": {
+    "score": 35,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": true,
+      "mobile_readable": true
+    },
+    "summary": "强稿，可直接作为高质量样稿"
+  },
+  "quote-01": {
+    "score": 30,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "可发，还可继续增强传播点"
+  },
+  "scene-01": {
+    "score": 30,
+    "max_score": 40,
+    "checks": {
+      "title": true,
+      "summary": true,
+      "body": true,
+      "viral_analysis": true,
+      "structure_hint": false,
+      "interaction": true,
+      "length_enough": false,
+      "mobile_readable": true
+    },
+    "summary": "可发，还可继续增强传播点"
+  }
+}
